@@ -1,5 +1,5 @@
 # Microsoft teams custom background uploader
-#### Tinos Psomadakis (2020)
+#### © Tinos Psomadakis (2020)
 
 
 # Download
