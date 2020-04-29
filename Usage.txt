@@ -1,0 +1,5 @@
+Usage:
+
+Open the exe in the build folder
+Select a/b/c
+Follow on screen instructions
