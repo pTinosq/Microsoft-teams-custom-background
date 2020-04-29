@@ -13,7 +13,7 @@
 
 # Information and warnings
 
-- This will not work for Linux/Mac OS systems. [b]Windows only![/b]
+- This will not work for Linux/Mac OS systems. **Windows only!**
 
 - All changes made in the software are irreversible from inside the program. There are warnings when you're about to make a big change but do be careful with what you do. For example, don't upload a folder with 1000000 text files, this will just ruin your computer.
 
